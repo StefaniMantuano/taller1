@@ -1,0 +1,48 @@
+
+.Grid{
+    display: grid;
+    background-color: rgb(80, 139, 206);
+    grid-template-columns: auto;
+    
+}
+.Grid div{
+    border: 0.5px solid rgb(247, 243, 243);
+    color: rgb(10, 10, 10);
+}
+.Grid1{
+    display: grid;
+    background-color: rgb(233, 193, 216);
+    grid-template-columns: auto;
+}
+.Grid1 div{
+    border:0.5px solid floralwhite;
+    color: rgb(10, 10, 10);
+}
+.Grid2{
+    display: grid;
+    background-color: rgb(240, 238, 114);
+    grid-template-columns: auto;
+    
+}
+.Grid2 div{
+    border:0.5px solid white;
+    color: rgb(10, 10, 10);
+
+}
+body{
+    border: solid rgb(17, 19, 18);
+    width: 90%;
+    height: 0%;
+    margin: 40px;
+    padding: 5px;
+
+}
+
+body{
+    background-image: url(fondo1.jpg);
+
+}
+h1{
+    text-align: center;
+    color: rgb(3, 33, 43);
+}
